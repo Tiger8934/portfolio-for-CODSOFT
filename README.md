@@ -1,2 +1,2 @@
 # portfolio-for-CODSOFT
-MY Personal Portfolio Using HTML and CSS.
+My Personal Portfolio Using HTML and CSS.
